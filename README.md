@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abhinav3254@yahoo.com**
 
-- ⚡ Fun fact **I Play Games very often.**
+- ⚡ Fun fact **I Play Video Games very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -62,6 +62,8 @@
 
 <a href = "https://www.linkedin.com/in/abhinav-kumar-jha-273046229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/__abhinav__jha__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/__abhinav__jha__/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://login.yahoo.com/account/personalinfo;_ylt=Awrxx_3Ybf5hQQ4AH2G6HAx.?.intl=in&.lang=en-IN"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
 
 </p>
 

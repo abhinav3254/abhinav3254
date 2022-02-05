@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Android Apps](https://github.com/abhinav3254?tab=repositories)**
 
-- 🌱 I’m currently working on **[DSA](https://github.com/abhinav3254/Java-And-DSA)**
+- 🌱 I’m currently Learning **[DSA](https://github.com/abhinav3254/Java-And-DSA)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

@@ -6,24 +6,26 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Android Apps](https://github.com/abhinav3254?tab=repositories)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently working on **[DSA](https://github.com/abhinav3254/Java-And-DSA)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[Git Hub](https://github.com/abhinav3254/abhinav3254)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **abhinav3254@yahoo.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I Play Games very often.**
 
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/android-os.png"/> </a> 
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a> 
     
 </p>
 

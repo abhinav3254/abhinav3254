@@ -64,6 +64,8 @@
 <a href = "https://www.instagram.com/__abhinav__jha__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.instagram.com/__abhinav__jha__/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://login.yahoo.com/account/personalinfo;_ylt=Awrxx_3Ybf5hQQ4AH2G6HAx.?.intl=in&.lang=en-IN"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
+<a href = "https://www.hackerrank.com/abhinav3254?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+<a href = "https://www.codechef.com/users/abhinav_3254"><img src="https://img.icons8.com/color/48/000000/codechef.png"/></a>
 
 </p>
 

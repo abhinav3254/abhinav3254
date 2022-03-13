@@ -70,7 +70,7 @@
 <a href = "https://www.hackerrank.com/abhinav3254?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 <a href = "https://www.codechef.com/users/abhinav_3254"><img src="https://img.icons8.com/color/48/000000/codechef.png"/></a>
 
-<a href = "https://abhinav3254.github.io/abhinavjha3254/">My Website</a>
+<a href = "https://abhinav3254.github.io/abhinavjha3254/" target = "_blank">My Website</a>
 
 </p>
 

@@ -26,7 +26,7 @@
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a> 
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+    <a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
     </a>
     

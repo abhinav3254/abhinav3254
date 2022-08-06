@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 <p align="center">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIbLThUw6zq6uEPFpHlw1rbCOrrXCx2YApw&usqp=CAU" alt="https://www.linkedin.com/in/abhinav-kumar-jha-273046229/" height="200" width="400" />
+<img align="center" src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?size=626&ext=jpg" alt="https://www.linkedin.com/in/abhinav-kumar-jha-273046229/" height="200" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav3254&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav3254" /> </p>
 

@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Android & Java**
 
-- 📫 How to reach me **abhinav3254@gmail.com**
+- 📫 How to reach me **abhinav3254@yahoo.com**
 
 - ⚡ Fun fact **I think I am a good gamer**
 

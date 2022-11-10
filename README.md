@@ -53,7 +53,8 @@
 <a href="https://activity-graph.herokuapp.com/graph?username=abhinav3254"><img alt="Abhinav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhinav3254&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
 </a>
 
+# snake eating
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+![snake gif](https://github.com/abhinav3254/abhinav3254/blob/output/github-contribution-grid-snake.gif)
 
 

@@ -11,6 +11,10 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 
+# snake eating my contribution
+
+![snake gif](https://github.com/abhinav3254/abhinav3254/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav3254&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav3254" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav3254" alt="abhinav3254" /></a> </p>
@@ -53,8 +57,8 @@
 <a href="https://activity-graph.herokuapp.com/graph?username=abhinav3254"><img alt="Abhinav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhinav3254&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
 </a>
 
-# snake eating
+<!-- # snake eating
 
-![snake gif](https://github.com/abhinav3254/abhinav3254/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/abhinav3254/abhinav3254/blob/output/github-contribution-grid-snake.gif) -->
 
 

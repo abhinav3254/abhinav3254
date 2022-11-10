@@ -1,6 +1,12 @@
 <p align="center">
 <img align="center" src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?size=626&ext=jpg" alt="https://www.linkedin.com/in/abhinav-kumar-jha-273046229/" height="250" width="500" />
 
+
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Abhinav+Jha;a+Software+Developer;Engineer)](https://git.io/typing-svg)
+ 
+
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
@@ -44,4 +50,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav3254&" alt="abhinav3254" /></p>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=abhinav3254"><img alt="Abhinav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhinav3254&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=abhinav3254"><img alt="Abhinav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhinav3254&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
+</a>
+
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+

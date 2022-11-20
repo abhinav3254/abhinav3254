@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 
-# snake eating my contribution
+<!-- # snake eating my contribution -->
 
 ![snake gif](https://github.com/abhinav3254/abhinav3254/blob/output/github-contribution-grid-snake.gif)
 

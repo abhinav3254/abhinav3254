@@ -23,7 +23,7 @@ I possess a robust skill set across various Java technologies, including Java SE
 <p align="left">
 <a href="https://twitter.com/abhinavjha3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavjha3254" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinav3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav3254" height="30" width="40" /></a>
-<a href="https://hashnode.com/abhinav3254" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
+<a href="https://hashnode.com/@abhinav3254" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
 
 <a href="https://medium.com/@abhinav3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinav3254" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhinav_3254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav_3254" height="30" width="40" /></a>

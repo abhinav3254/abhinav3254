@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-<ul>
-<li>Java SE</li>
-<li>J2EE</li>
-<li>Java Microservices</li>
-<li>MERN</li>
-<li>MEAN</li>
-<ul>
+<p>
+I possess a robust skill set across various Java technologies, including Java SE, J2EE, and Java Microservices. With Java SE, I am adept at developing desktop and standalone applications, leveraging its rich set of APIs and libraries. In J2EE, I excel in building scalable and enterprise-grade web applications, utilizing technologies like Servlets, JSP, JDBC, and frameworks such as Spring and Hibernate. My proficiency extends to Java Microservices architecture, enabling me to design and develop lightweight, loosely coupled, and highly scalable microservices-based applications using frameworks like Spring Boot and Dropwizard. Additionally, I have expertise in MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, AngularJS, Node.js) stacks, allowing me to build modern and dynamic web applications with JavaScript across the entire development stack.
+</p>
+
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav3254&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav3254" /> </p>

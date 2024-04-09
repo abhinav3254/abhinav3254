@@ -3,10 +3,10 @@
 
 <div>
   <span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F0MjY2c2lmcTB2bTI1cjczdzU0Y21jMzhqMWJ2eHRoNjQ1aGk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wW95fEq09hOI8/giphy.gif" width="40" height="40" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F0MjY2c2lmcTB2bTI1cjczdzU0Y21jMzhqMWJ2eHRoNjQ1aGk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wW95fEq09hOI8/giphy.gif" width="200" height="200" />
   </span>
   <span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVyMjR5YXV1cnZza3B0c3psOWx2Znd5a3ozN3NtMmh2NHRzN2VhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7dl4ljhR5YvZK/giphy.gif" width="40" height="40" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVyMjR5YXV1cnZza3B0c3psOWx2Znd5a3ozN3NtMmh2NHRzN2VhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7dl4ljhR5YvZK/giphy.gif" width="200" height="200" />
   </span>
 </div>
 

@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
+<iframe src="https://giphy.com/embed/wW95fEq09hOI8" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chihuahua-funny-cute-wW95fEq09hOI8">via GIPHY</a></p>
+
 <p>
 I possess a robust skill set across various Java technologies, including Java SE, J2EE, and Java Microservices. With Java SE, I am adept at developing desktop and standalone applications, leveraging its rich set of APIs and libraries. In J2EE, I excel in building scalable and enterprise-grade web applications, utilizing technologies like Servlets, JSP, JDBC, and frameworks such as Spring and Hibernate. My proficiency extends to Java Microservices architecture, enabling me to design and develop lightweight, loosely coupled, and highly scalable microservices-based applications using frameworks like Spring Boot and Dropwizard. Additionally, I have expertise in MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, AngularJS, Node.js) stacks, allowing me to build modern and dynamic web applications with JavaScript across the entire development stack.
 </p>

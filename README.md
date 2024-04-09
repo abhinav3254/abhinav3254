@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F0MjY2c2lmcTB2bTI1cjczdzU0Y21jMzhqMWJ2eHRoNjQ1aGk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wW95fEq09hOI8/giphy.gif
+)
+
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVyMjR5YXV1cnZza3B0c3psOWx2Znd5a3ozN3NtMmh2NHRzN2VhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7dl4ljhR5YvZK/giphy.gif)
 
 

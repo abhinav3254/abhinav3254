@@ -1,43 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav Kumar</h1>
-<h3 align="center">I am a Software Engineer</h3>
-
-<div>
-  <span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F0MjY2c2lmcTB2bTI1cjczdzU0Y21jMzhqMWJ2eHRoNjQ1aGk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wW95fEq09hOI8/giphy.gif" width="200" height="200" />
-  </span>
-  <!--
-  <span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVyMjR5YXV1cnZza3B0c3psOWx2Znd5a3ozN3NtMmh2NHRzN2VhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7dl4ljhR5YvZK/giphy.gif" width="200" height="200" />
-  </span>
-  -->
-</div>
-
-
-<p>
-I possess a robust skill set across various Java technologies, including Java SE, J2EE, and Java Microservices. With Java SE, I am adept at developing desktop and standalone applications, leveraging its rich set of APIs and libraries. In J2EE, I excel in building scalable and enterprise-grade web applications, utilizing technologies like Servlets, JSP, JDBC, and frameworks such as Spring and Hibernate. My proficiency extends to Java Microservices architecture, enabling me to design and develop lightweight, loosely coupled, and highly scalable microservices-based applications using frameworks like Spring Boot and Dropwizard. Additionally, I have expertise in MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, AngularJS, Node.js) stacks, allowing me to build modern and dynamic web applications with JavaScript across the entire development stack.
-</p>
-
-
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav3254&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav3254" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhinavjha3254" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavjha3254?logo=twitter&style=for-the-badge" alt="abhinavjha3254" /></a> </p>
+# 💫 About Me:
+I am a full stack developer working with various technologies such as J2EE and Java Microservices, as well as Node.js and MERN and MEAN stack development.
 
-- 👨‍💻 Portfolio Website [https://website-nov.web.app/](https://website-nov.web.app/)
 
-- 📝 I regularly write articles on [https://abhinav3254.hashnode.dev/](https://abhinav3254.hashnode.dev/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__abhinav__jha__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav3254) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinav3254) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhinavjha3254) 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhinav3254&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav3254&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav3254&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhinavjha3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavjha3254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav3254" height="30" width="40" /></a>
-<a href="https://hashnode.com/@abhinav3254" target="blank"><img align="center" width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
+---
+<!--  [![](https://visitcount.itsvg.in/api?id=abhinav3254&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
-<a href="https://medium.com/@abhinav3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinav3254" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhinav_3254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav_3254" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinav3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinav3254" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

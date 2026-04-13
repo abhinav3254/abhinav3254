@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav3254&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav3254" /> </p>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lunarmoon3)](https://leetcode.com/lunarmoon3
+
 # 💫 About Me:
 I am a full stack developer working with various technologies such as J2EE and Java Microservices, as well as Node.js and MERN and MEAN stack development.
 
